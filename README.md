@@ -151,3 +151,11 @@ If you face any issues during the setup or while running the project, ensure the
 For further troubleshooting, refer to the ZenML documentation at https://docs.zenml.io/ or the official MLflow documentation for more details.
 
 
+
+---
+
+## **Author**
+**Faizan Bhutto**  
+[LinkedIn](https://www.linkedin.com/in/faizanbhutto) | [GitHub](https://github.com/bhutto17)
+
+Feel free to reach out if you have any questions or feedback regarding this project.
